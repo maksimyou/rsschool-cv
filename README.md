@@ -1,2 +1,1 @@
- Text update
-https://maksimyou.github.io/rsschool-cv/cv
+https://maksimyou.github.io/rsschool-cv/rsschool-cv/
