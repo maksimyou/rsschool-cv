@@ -1,8 +1,8 @@
-#Ашмарин Максим
+# Ашмарин Максим
 
 ---
 
-##My Contact Info
+## My Contact Info
 
 
 * **Address:** A.Rahimov st. Baku, Azerbaijan
@@ -14,7 +14,7 @@
 * **Medium:** [Medium](https://maksimyou.medium.com/ "maksimyou")
 
 
-##Skills
+## Skills
 
 
 ---
@@ -32,14 +32,14 @@
 
 ---
 
-##Code examples
+## Code examples
 
 ```
 x=> x != +x? x : x
 
 ```
 
-##Languages
+## Languages
 ---
 
 *English
