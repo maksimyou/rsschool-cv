@@ -1,6 +1,6 @@
 # Ашмарин Максим
 
----
+
 
 ## My Contact Info
 
@@ -17,7 +17,7 @@
 ## Skills
 
 
----
+
 
 * HTML
 * CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
@@ -40,7 +40,7 @@ x=> x != +x? x : x
 ```
 
 ## Languages
----
+
 
 * English
 * Russian
