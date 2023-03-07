@@ -19,16 +19,16 @@
 
 ---
 
-*HTML
-*CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
-*JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
-*React JS, Redux (intermediate level knowledge).
-*Version control: Git (remote service GitHub).
-*Module Bundlers: Gulp, Webpack.
-*C (basic knowledge), Python(basic knowledge) - Flask Framework( basic knowledge), SQLite(basic knowledge).
-*Windows OS, Linux(Ubuntu)
-*Figma(for web development)
-*Editors: Sublime, Brackets, VSCode, PyCharm community.
+* HTML
+* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+* React JS, Redux (intermediate level knowledge).
+* Version control: Git (remote service GitHub).
+* Module Bundlers: Gulp, Webpack.
+* C (basic knowledge), Python(basic knowledge) - Flask Framework( basic knowledge), SQLite(basic knowledge).
+* Windows OS, Linux(Ubuntu)
+* Figma(for web development)
+* Editors: Sublime, Brackets, VSCode, PyCharm community.
 
 ---
 
@@ -42,5 +42,5 @@ x=> x != +x? x : x
 ## Languages
 ---
 
-*English
-*Russian
+* English
+* Russian
